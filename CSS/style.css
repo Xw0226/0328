@@ -1,0 +1,55 @@
+@charset "utf-8";
+header {
+    background-color: #948AE0;
+    height: 443px;
+    text-shadow: 0px 0px #FFFFFF;
+    min-height: 0px;
+    color: #3E5687;
+    font-size: 27px;
+}
+
+nav {
+    text-align: center;
+    font-size: 22px;
+}
+.heroimg {
+    height: 250px;
+    background-image: url(istockphoto-858079562-612x612.jpg);
+    background-position: center center;
+    background-size: cover;
+    border-radius: 21px;
+    width: 800px;
+    padding-left: auto;
+    padding-right: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+nav a:link {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+nav a:hover {
+    color: #E5AFB0;
+}
+
+
+
+.box3 {
+    background-color: #FAE0FD;
+}
+.box4 {
+    background-color: #D8C2ED;
+}
+main {
+    background-color: #AB90C3;
+}
+footer {
+    height: 25px;
+    background-color: #979797;
+}
+.container {
+    width: 1000px;
+    margin-right: auto;
+    margin-left: auto;
+}
